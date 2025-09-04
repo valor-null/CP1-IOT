@@ -1,4 +1,7 @@
 # IoT – Checkpoint 1
+### 🎥 Vídeo de Demonstração
+- [[Assista ao vídeo]](https://youtu.be/Y0y-Efc1cik)
+
 ## 📌 Visão Geral:
 
 **Lógica XOR no ESP32:**  
@@ -62,4 +65,5 @@ Serão gerados automaticamente:
 - Erick Alves Xavier Dos Santos -- RM: 556862  
 - Luiz Eduardo Da Silva Pinto -- RM: 555213  
 - Mirela Pinheiro Silva Rodrigues -- RM: 558191  
+
 
