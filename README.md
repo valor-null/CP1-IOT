@@ -10,6 +10,24 @@ Os dados coletados no ESP32 foram organizados em um arquivo CSV com as colunas: 
 ## 🧠 **Modelo escolhido:**  
 Escolhemos o modelo Linear SVM como final. Nos testes, ele teve um desempenho mais equilibrado para diferenciar quando havia atividade (label=1) e quando não havia (label=0). Apesar de a árvore de decisão ter uma acurácia parecida, o SVM conseguiu identificar melhor os casos positivos. Além disso, ele gera um código em C simples, que facilita a integração no ESP32.
 
+## 📸 Etapas do Projeto
+
+<table>
+  <tr>
+    <td><img src="imagens/dataset.png" width="300"></td>
+    <td><img src="imagens/serial.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="imagens/led_vermelho.png" width="300"></td>
+    <td><img src="imagens/led_verde.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="imagens/treino.png" width="300"></td>
+  </tr>
+</table>
+
+
+
 ## ▶️ **Como rodar**  
 
 **Parte 1 — XOR (ESP32):**  
@@ -44,3 +62,4 @@ Serão gerados automaticamente:
 - Erick Alves Xavier Dos Santos -- RM: 556862  
 - Luiz Eduardo Da Silva Pinto -- RM: 555213  
 - Mirela Pinheiro Silva Rodrigues -- RM: 558191  
+
